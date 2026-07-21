@@ -1,0 +1,46 @@
+span {
+text-align: center;
+  font-size: 100px;
+  position: relative;
+  top: 100px;
+  bottom: 100px;
+ font-weight: 400;
+  
+  
+}
+#google-sans {
+    font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" -50;
+}
+#search-form {
+     text-align: center;
+  position: relative;
+  top: 100px;
+  bottom: 100px;
+}
+#e {
+  font-size: 100px;
+  display: inline-block;
+  transform: skewX(15deg);
+}
+
+#advanced-search   { 
+  position: absolute;
+  top: 10px;
+  right: 100px;
+}
+
+#images  {
+  position: absolute;
+  top: 10px;
+  right: 40px;
+}
+
+
+ 
+
+
